@@ -12,7 +12,7 @@
 
 - PC, Switch
 
-<h3>À propos</h3>
+<h3>ℹ️ À propos</h3>
    Ce jeu a été réalisé par une équipe de 3 game programmers sur une durée de 1 mois.
   
   <h4>Lors de ce projet, j'ai implémenté :</h4>
@@ -24,7 +24,7 @@
        <li>les effets et particules</li> 
     </ul>
 
-<h3>À propos du jeu</h3>
+<h3>👾 À propos du jeu</h3>
 
 - Le but du jeu est de défendre son village contre des envahisseurs, en utilisant les pouvoirs de soigneur conférés au joueur.
 - Les ennemis arrivent par vagues et se dirigent vers la base non capturée la plus proche.
