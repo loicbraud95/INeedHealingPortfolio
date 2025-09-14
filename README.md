@@ -17,11 +17,11 @@
   
   <h4>Lors de ce projet, j'ai implémenté :</h4>
     <ul> 
-       <li>les mouvements du joueur</li>
-       <li>les mécaniques de gameplay</li> 
-       <li>les sons liés au joueur</li> 
-       <li>l’ensemble de l’interface utilisateur (UI)</li> 
-       <li>les effets et particules</li> 
+       <li>les mouvements du joueur.</li>
+       <li>les mécaniques de gameplay.</li> 
+       <li>les sons liés au joueur.</li> 
+       <li>l’ensemble de l’interface utilisateur (UI).</li> 
+       <li>les effets et particules.</li> 
     </ul>
 
 <h3>👾 À propos du jeu</h3>
